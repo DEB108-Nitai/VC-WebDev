@@ -282,4 +282,4 @@
 // // });
 // // console.log(factorial);
 
-// Level 6 : Dom 
+// Level 6 : DOM Manipulation
